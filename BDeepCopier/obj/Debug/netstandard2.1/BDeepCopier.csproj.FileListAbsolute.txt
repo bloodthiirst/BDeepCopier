@@ -1,9 +1,0 @@
-C:\Users\Blood\source\repos\BDeepCopier\BDeepCopier\bin\Debug\netstandard2.1\BDeepCopier.deps.json
-C:\Users\Blood\source\repos\BDeepCopier\BDeepCopier\bin\Debug\netstandard2.1\BDeepCopier.dll
-C:\Users\Blood\source\repos\BDeepCopier\BDeepCopier\bin\Debug\netstandard2.1\BDeepCopier.pdb
-C:\Users\Blood\source\repos\BDeepCopier\BDeepCopier\obj\Debug\netstandard2.1\BDeepCopier.csprojAssemblyReference.cache
-C:\Users\Blood\source\repos\BDeepCopier\BDeepCopier\obj\Debug\netstandard2.1\BDeepCopier.AssemblyInfoInputs.cache
-C:\Users\Blood\source\repos\BDeepCopier\BDeepCopier\obj\Debug\netstandard2.1\BDeepCopier.AssemblyInfo.cs
-C:\Users\Blood\source\repos\BDeepCopier\BDeepCopier\obj\Debug\netstandard2.1\BDeepCopier.csproj.CoreCompileInputs.cache
-C:\Users\Blood\source\repos\BDeepCopier\BDeepCopier\obj\Debug\netstandard2.1\BDeepCopier.dll
-C:\Users\Blood\source\repos\BDeepCopier\BDeepCopier\obj\Debug\netstandard2.1\BDeepCopier.pdb
