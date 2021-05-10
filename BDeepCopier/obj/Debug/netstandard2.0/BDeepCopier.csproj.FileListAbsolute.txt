@@ -1,0 +1,3 @@
+C:\Users\Blood\source\repos\BDeepCopier\BDeepCopier\obj\Debug\netstandard2.0\BDeepCopier.AssemblyInfoInputs.cache
+C:\Users\Blood\source\repos\BDeepCopier\BDeepCopier\obj\Debug\netstandard2.0\BDeepCopier.AssemblyInfo.cs
+C:\Users\Blood\source\repos\BDeepCopier\BDeepCopier\obj\Debug\netstandard2.0\BDeepCopier.csproj.CoreCompileInputs.cache
