@@ -7,7 +7,7 @@ BDeepCopier is a lightweight deep-copy api to , well , make deep copies of objec
 - Heavily use of caching and runtime delegate magic, so after the first use you will basically be running reflection-free code based on delegates
 - Ability to override copying behaviour with the use special attributes and even creating your own override behaviour
 - supports recusive referencing
-- 
+
 ## Usage
 
 ```csharp
